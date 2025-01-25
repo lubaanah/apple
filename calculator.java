@@ -27,7 +27,7 @@ class calculator {
 public static void main(String args[])
 {
 Scanner scan = new Scanner(System.in);
-System.out.println("enter value of a :");
+System.out.println("enter value of a andbbbb :");
 int a = scan.nextInt();
 System.out.println("enter value of b:");
 int b = scan.nextInt();
